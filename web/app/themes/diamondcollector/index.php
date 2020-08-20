@@ -106,9 +106,9 @@
                             <div class="col-6 col-lg-3">
                                 <img id="greenDiamond" class="hidden"
                                     src="https://media.giphy.com/media/pz3ZNXGgvR19V7k8Eb/giphy.gif"
-                                    alt="Marry Me Spinning Sticker by Simon Falk">
-                                <img class="animate" id="GreenDiamond"
-                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/blue.png"
+                                    alt="Marry Me Spinning Sticker by Simon Falk"><img class=" animate"
+                                    id="GreenDiamond"
+                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/green.png"
                                     alt="green diamond">
 
                             </div>
