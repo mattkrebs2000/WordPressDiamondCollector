@@ -3281,3 +3281,5 @@ $cfg['DefaultTransformations']['TextLink'] = [
     null,
     null,
 ];
+
+$cfg['Servers'][$i]['AllowNoPassword'] = TRUE;
