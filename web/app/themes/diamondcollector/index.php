@@ -86,7 +86,7 @@
                                     alt="3d spinning Sticker by Simon Falk">
                                 <img class="animate" id="PurpleDiamond"
                                     src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/purple.png"
-                                    alt="purple">
+                                    alt="purple diamond">
                             </div>
 
                             <div class="col-6 col-lg-3">
