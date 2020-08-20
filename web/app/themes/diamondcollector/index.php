@@ -80,7 +80,6 @@
 
                     <div id="bottom" class="container">
 
-                        <?php the_post_thumbnail(); ?>
                         <div class="row">
                             <div class="col-6 col-lg-3">
                                 <img id="purpleDiamond" class="hidden"
