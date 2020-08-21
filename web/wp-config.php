@@ -4,6 +4,17 @@
  * This file is required in the root directory so WordPress can find it.
  * WP is hardcoded to look in its own directory or one directory up for wp-config.php.
  */
+
+ // ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define( 'DB_NAME', 'wordpress' );
+/** MySQL database username */
+define( 'DB_USER', 'mattkrebs' );
+/** MySQL database password */
+define( 'DB_PASSWORD', 'matt1974' );
+/** MySQL hostname */
+define( 'DB_HOST', 'localhost' );
+ 
 define('DISALLOW_FILE_MODS', false);
 define('DISALLOW_FILE_EDIT', false);
  
