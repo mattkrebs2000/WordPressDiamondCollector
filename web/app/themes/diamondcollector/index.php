@@ -85,32 +85,26 @@
                                 <img id="purpleDiamond" class="hidden"
                                     src="https://media3.giphy.com/media/SHT2ELb4lvmLU9IcC1/giphy.gif?cid=790b76118c290136cb6f0e1c6ecd9f7f4ee165f81023d8f2&amp;rid=giphy.gif"
                                     alt="3d spinning Sticker by Simon Falk">
-                                <img class="animate" id="PurpleDiamond"
-                                    src="https://salty-wildwood-84039.herokuapp.com/wp/wp-content/uploads/purple.png"
-                                    alt="purple diamond">
+                                <img class="animate" id="PurpleDiamond" src="../purple.png" alt="purple diamond">
                             </div>
 
                             <div class="col-6 col-lg-3">
                                 <img id="redDiamond" class="hidden"
                                     src="https://media0.giphy.com/media/SiGjBqizFrcXWk5iBb/giphy.gif?cid=790b76115934f95f9ca63c63f401371173ae581025ff47ef&amp;rid=giphy.gif"
                                     alt="marry me spinning Sticker by Simon Falk"><img class="animate" id="RedDiamond"
-                                    src="https://salty-wildwood-84039.herokuapp.com/wp/wp-content/uploads/red.png"
-                                    alt="red diamond">
+                                    src="../red.png" alt="red diamond">
                             </div>
                             <div class="col-6 col-lg-3">
                                 <img id="blueDiamond" class="hidden"
                                     src="https://media.giphy.com/media/1qgdfBl0FRZ4dM7YzU/giphy.gif"
                                     alt="Marry Me Spinning Sticker by Simon Falk"><img class="animate" id="BlueDiamond"
-                                    src="https://salty-wildwood-84039.herokuapp.com/wp/wp-content/uploads/blue.png"
-                                    alt="blue diamond">
+                                    src="../blue.png" alt="blue diamond">
                             </div>
                             <div class="col-6 col-lg-3">
                                 <img id="greenDiamond" class="hidden"
                                     src="https://media.giphy.com/media/pz3ZNXGgvR19V7k8Eb/giphy.gif"
                                     alt="Marry Me Spinning Sticker by Simon Falk"><img class=" animate"
-                                    id="GreenDiamond"
-                                    src="https://salty-wildwood-84039.herokuapp.com/wp/wp-content/uploads/green.png"
-                                    alt="green diamond">
+                                    id="GreenDiamond" src="../green.png" alt="green diamond">
 
                             </div>
                         </div>
