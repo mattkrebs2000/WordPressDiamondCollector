@@ -86,7 +86,7 @@
                                     src="https://media3.giphy.com/media/SHT2ELb4lvmLU9IcC1/giphy.gif?cid=790b76118c290136cb6f0e1c6ecd9f7f4ee165f81023d8f2&amp;rid=giphy.gif"
                                     alt="3d spinning Sticker by Simon Falk">
                                 <img class="animate" id="PurpleDiamond"
-                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/purple.png"
+                                    src="https://salty-wildwood-84039.herokuapp.com/app/uploads/2020/08/purple.png"
                                     alt="purple diamond">
                             </div>
 
@@ -94,14 +94,14 @@
                                 <img id="redDiamond" class="hidden"
                                     src="https://media0.giphy.com/media/SiGjBqizFrcXWk5iBb/giphy.gif?cid=790b76115934f95f9ca63c63f401371173ae581025ff47ef&amp;rid=giphy.gif"
                                     alt="marry me spinning Sticker by Simon Falk"><img class="animate" id="RedDiamond"
-                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/red.png"
+                                    src="https://salty-wildwood-84039.herokuapp.com/app/uploads/2020/08/red.png"
                                     alt="red diamond">
                             </div>
                             <div class="col-6 col-lg-3">
                                 <img id="blueDiamond" class="hidden"
                                     src="https://media.giphy.com/media/1qgdfBl0FRZ4dM7YzU/giphy.gif"
                                     alt="Marry Me Spinning Sticker by Simon Falk"><img class="animate" id="BlueDiamond"
-                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/blue.png"
+                                    src="https://salty-wildwood-84039.herokuapp.com/app/uploads/2020/08/blue.png"
                                     alt="blue diamond">
                             </div>
                             <div class="col-6 col-lg-3">
@@ -109,7 +109,7 @@
                                     src="https://media.giphy.com/media/pz3ZNXGgvR19V7k8Eb/giphy.gif"
                                     alt="Marry Me Spinning Sticker by Simon Falk"><img class=" animate"
                                     id="GreenDiamond"
-                                    src="https://glacial-reef-54461.herokuapp.com/app/uploads/2020/08/green.png"
+                                    src="https://salty-wildwood-84039.herokuapp.com/app/uploads/2020/08/green.png"
                                     alt="green diamond">
 
                             </div>
