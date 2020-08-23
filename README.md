@@ -2,7 +2,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/mattkrebs1974/diamondcollector/blob/master/DiamondCollector%20copy.png
+[logo]: https://github.com/mattkrebs2000/WordPressDiamondCollector/blob/master/Diamonds.png
 
 This game challenges players to collect diamonds of a given value to reach a given sum. The app is a wordpress application with a custom made theme. 
 
